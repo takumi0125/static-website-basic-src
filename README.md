@@ -1,4 +1,4 @@
-website-basic-src
+static-website-basic-src
 =================
 for grunt or gulp  
 require jade, sass(scss), coffee-script  
