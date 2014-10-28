@@ -4,7 +4,7 @@ static-website-basic-src
 タスクランナー(grunt, gulp)の使用を前提とする、サイト基本構造のテンプレートです。
 ディレクトリの構造を維持するために空のディレクトリに.gitkeepを配置していますので、適宜削除してください。
 
-このテンプレートは, 
+このテンプレートは
 
 [jade](http://jade-lang.com/)  
 [sass](http://sass-lang.com/) + [compass](http://compass-style.org/)  
