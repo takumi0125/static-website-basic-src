@@ -6,8 +6,8 @@ static-website-basic-src
 
 このテンプレートは, 
 
-[jade](http://jade-lang.com/)
-[sass](http://sass-lang.com/) + [compass](http://compass-style.org/)
+[jade](http://jade-lang.com/)  
+[sass](http://sass-lang.com/) + [compass](http://compass-style.org/)  
 [coffee script](http://coffeescript.org/)
 
 を使用する前提で構成しています。
