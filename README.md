@@ -17,9 +17,9 @@ index2.html
 aboutUs/index2.html
 は素の HTML ファイルです。Jade を使用しない場合はこちらを使用してください。
 
-common/css/_module.scss は spritesmith(<a href="https://github.com/Ensighten/grunt-spritesmith" target="_blank">grunt-spritesmith</a>, <a href="https://github.com/twolfson/gulp.spritesmith" target="_blank">gulp-spritesmith</a>) を使用する前提のmixinが含まれています。
+common/css/_module.scss は spritesmith(<a href="https://github.com/Ensighten/grunt-spritesmith" target="_blank">grunt-spritesmith</a>, <a href="https://github.com/twolfson/gulp.spritesmith" target="_blank">gulp-spritesmith</a>) を使用する前提の mixin が含まれています。
 
-common/css/common.scss は
+`common/css/common.scss` は
 
 ```
 @import 'compass';
