@@ -6,8 +6,8 @@ static-website-basic-src
 
 このテンプレートは
 
-<a href="http://jade-lang.com/" target="_blank">jade</a>
-<a href="http://sass-lang.com/" target="_blank">sass/scss</a> + <a href="http://compass-style.org/" target="_blank">compass</a>
+<a href="http://jade-lang.com/" target="_blank">jade</a>  
+<a href="http://sass-lang.com/" target="_blank">sass/scss</a> + <a href="http://compass-style.org/" target="_blank">compass</a>  
 <a href="http://coffeescript.org/" target="jade">coffee script</a>
 
 を使用する前提で構成しています。
@@ -17,7 +17,7 @@ index2.html
 aboutUs/index2.html
 は素のHTMLファイルです。jadeを使用しない場合はこちらを使用してください。
 
-common/css/_module.scssはspritesmith([grunt-spritesmith](https://github.com/Ensighten/grunt-spritesmith), [gulp-spritesmith](https://github.com/twolfson/gulp.spritesmith))を使用する前提のmixinが含まれています。
+common/css/_module.scssはspritesmith(<a href="https://github.com/Ensighten/grunt-spritesmith" target="_blank">grunt-spritesmith</a>, <a href="https://github.com/twolfson/gulp.spritesmith" target="gulp-spritesmith">jade</a>)を使用する前提のmixinが含まれています。
 
 common/css/common.scssは
 
