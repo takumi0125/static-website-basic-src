@@ -8,7 +8,7 @@ static-website-basic-src
 
 <a href="http://jade-lang.com/" target="_blank">Jade</a>  
 <a href="http://sass-lang.com/" target="_blank">Sass/SCSS</a> + <a href="http://compass-style.org/" target="_blank">Compass</a>  
-<a href="http://coffeescript.org/" target="jade">coffee script</a>
+<a href="http://coffeescript.org/" target="jade">CoffeeScript</a>
 
 を使用する前提で構成しています。
 
