@@ -1,0 +1,20 @@
+doctype html
+html(prefix="og:http://ogp.me/ns#")
+  head
+    title #{aboutUs.title}
+    meta(charset="utf-8") 
+    meta(name="keywords", content="#{aboutUs.keywords}")
+    meta(name="description", content="#{aboutUs.description}")
+    
+    meta(property="og:title", content="#{aboutUs.title}")
+    meta(property="og:url", content="#{aboutUs.url}")
+    meta(property="og:description", content="#{aboutUs.description}")
+    meta(property="og:image", content="#{aboutUs.ogImg}")
+    meta(property="og:type", content="#{aboutUs.ogType}")
+
+    link(rel="stylesheet", media="all", href="/common/css/common.css", type="text/css")
+    link(rel="stylesheet", media="all", href="/css/aboutUs.css", type="text/css")
+  
+  body
+    script(src="/common/js/common.js")
+    script(src="/js/aboutUs.js")

@@ -1,7 +1,19 @@
 {
-  "title": "",
-  "description": "",
-  "url": "",
-  "keywords": ""
+  "index": {
+    "title": "title",
+    "description": "description",
+    "url": "http://example.com/",
+    "keywords": "keywords",
+    "ogImg": "http://example.com/common/img/ogp.png",
+    "ogType": "website"
+  },
+  "aboutUs": {
+    "title": "title",
+    "description": "description",
+    "url": "http://example.com/",
+    "keywords": "keywords",
+    "ogImg": "http://example.com/common/img/ogp.png",
+    "ogType": "website"
+  }
 }
 

@@ -1,2 +1,7 @@
-@import "_reset";
+@import "compass"
+@import "compass/reset";
 @import "_module";
+
+body {
+  font-family:'Lucida Grande', 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', Meiryo, メイリオ, sans-serif;
+}
