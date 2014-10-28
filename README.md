@@ -17,7 +17,7 @@ index2.html
 aboutUs/index2.html
 は素のHTMLファイルです。jadeを使用しない場合はこちらを使用してください。
 
-common/css/_module.scssはspritesmith(<a href="https://github.com/Ensighten/grunt-spritesmith" target="_blank">grunt-spritesmith</a>, <a href="https://github.com/twolfson/gulp.spritesmith" target="gulp-spritesmith">jade</a>)を使用する前提のmixinが含まれています。
+common/css/_module.scssはspritesmith(<a href="https://github.com/Ensighten/grunt-spritesmith" target="_blank">grunt-spritesmith</a>, <a href="https://github.com/twolfson/gulp.spritesmith" target="_blank">gulp-spritesmith</a>)を使用する前提のmixinが含まれています。
 
 common/css/common.scssは
 
