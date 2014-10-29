@@ -12,9 +12,9 @@ static-website-basic-src
 
 を使用する前提で構成しています。
 
-data.json は Jade コンパイル時に読み込まれ、変数の内容がコンパイル後の HTML に反映されます。
-index2.html
-aboutUs/index2.html
+`_data.json` は Jade コンパイル時に読み込まれ、変数の内容がコンパイル後の HTML に反映されます。
+`index2.html`
+`aboutUs/index2.html`
 は素の HTML ファイルです。Jade を使用しない場合はこちらを使用してください。
 
 common/css/_module.scss は spritesmith(<a href="https://github.com/Ensighten/grunt-spritesmith" target="_blank">grunt-spritesmith</a>, <a href="https://github.com/twolfson/gulp.spritesmith" target="_blank">gulp-spritesmith</a>) を使用する前提のmixinが含まれています。
